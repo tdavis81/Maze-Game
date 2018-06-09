@@ -1,0 +1,25 @@
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form1.resources
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.Cache
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+C:\Documents and Settings\cp749\Desktop\Avery's Stuff\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.exe
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.xml
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.pdb
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.exe
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.pdb
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\bin\Debug\WindowsApplication17.xml
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form1.resources
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form2.resources
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Resources.resources
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.vbproj.GenerateResource.Cache
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form3.resources
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form4.resources
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form5.resources
+C:\Users\xxtyl_000\Desktop\Visual Basic 2008\Projects\WindowsApplication17\WindowsApplication17\obj\Debug\WindowsApplication17.Form6.resources
